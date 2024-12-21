@@ -1,0 +1,61 @@
+@import"variabels.scss";
+.main{
+    //text-align: center;
+    width:85%;
+    margin: 3em auto 5em auto;
+    .card{
+        margin-top:1.5em ;
+        border-radius: 5px;
+        box-shadow: 0px 20px 20px -5px  hsla(229, 95%, 75%, 0.384);
+        padding-left: 2em;
+        padding-right: 2em;
+        padding-bottom: 1em;
+        .icon{
+            display: flex;
+            justify-content: flex-end;
+            margin-top: 3.5em;
+        }
+    }
+    h2{
+        font-family: $reguler;
+        color:$headline;
+        font-size: 1.125rem;
+        margin-bottom: 0;
+    }
+    p{
+        margin-top: 0.5em;
+        color:$after__headline;
+        font-family: $reguler;
+        font-size: 0.75rem;
+    }
+    .card__1{
+        border-top:4px solid $cyan__card;
+    }
+    .card__2{
+        border-top:4px solid $red__card;
+    }
+    .card__3{
+        border-top:4px solid $yellow__card;
+    }
+    .card__4{
+        border-top:4px solid $blue__card;
+    }
+}
+@media only screen and  (min-width:700px) {
+    .main{
+        display: flex;
+        justify-content: center;
+        .card__1,.card__4{
+            margin:auto 0;
+        }
+        .card__1{
+            margin-right: 2em;
+        }
+        .card__4{
+            margin-left: 2em;
+        }
+        .container,.card__1,.card__4{
+            width: 30%;
+        }
+    }
+}

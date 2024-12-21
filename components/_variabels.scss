@@ -1,0 +1,18 @@
+@font-face {
+    font-family:Poppins-Medium ;
+    src: url(Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: Poppins-Thin;
+    src: url(Poppins-Thin.ttf);
+}
+$red__card:hsl(0, 78%, 62%);
+$cyan__card:hsl(180, 62%, 55%);
+$yellow__card:hsl(34, 97%, 64%);
+$blue__card:hsl(212, 86%, 64%);
+$headline:hsl(234, 12%, 34%);
+$before__headline:hsl(234, 12%, 34%);
+$after__headline:hsl(229, 6%, 66%);
+$body__color:hsl(0, 0%, 98%);
+$reguler:Poppins-Medium;
+$thin:Poppins-Thin;

@@ -1,0 +1,10 @@
+@import"./components/variabels.scss";
+@import"./components/header.scss";
+@import"./components/cards.scss";
+*, *::after,*::before{
+    box-sizing: border-box;
+}
+body{
+    background-color: $body__color;
+    font-family: $reguler;
+}

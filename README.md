@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://github.com/rankobinu/product-preview-card-component-main)
-- Live Site URL:(https://rankobinu.github.io/product-preview-card-component-main/)
+- Solution URL:(https://github.com/rankobinu/Trying-to-mastering-responsivness)
+- Live Site URL:(https://rankobinu.github.io/Trying-to-mastering-responsivness/)
 
 ## My process
 

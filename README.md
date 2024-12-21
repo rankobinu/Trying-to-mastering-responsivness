@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/rankobinu/Trying-to-mastering-responsivness)
-- Live Site URL:(https://rankobinu.github.io/Trying-to-mastering-responsivness/)
+- Live Site URL:(https://trying-to-mastering-responsivness-bfwq183x0-rankobinus-projects.vercel.app/)
 
 ## My process
 
